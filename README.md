@@ -73,8 +73,3 @@
 ## Developer Notes:
 
 **Some Assets in this project is not my own. For credits to these assets check the game page on Itch.io [https://fwitbees.itch.io/payday](https://fwitbees.itch.io/payday)**
-
-## License
-All Rights Reserved © 2025 Matthew Bonnichsen
-This repository contains assets and builds for demonstration and portfolio use only.
-No code, audio, or visual content may be reused or modified without explicit permission.
